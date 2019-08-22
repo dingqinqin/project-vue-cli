@@ -1,0 +1,21 @@
+export default {
+    '#457cd6': 'primary',
+    '#0190fe': 'secondary',
+    '#fbfdff': 'darkWhite',
+    '#1f2d3d': 'baseBlack',
+    '#324157': 'lightBlack',
+    '#48576a': 'extraLightBlack',
+    '#8391a5': 'baseSilver',
+    '#97a8be': 'lightSilver',
+    '#a2beeb': 'extraLightSilver',
+    '#d1dbe5': 'baseGray',
+    '#e4e8f1': 'lightGray',
+    '#eef1f6': 'extraLightGray',
+    '#3e70c1': 'buttonActive',
+    '#6a96de': 'buttonHover',
+    '#F3B771': 'tableBorder',
+    '#d2ecff': 'datepickerInRange',
+    '#afddff': 'datepickerInRangeHover',
+    '#1d90e6': 'selectOptionSelected',
+    '#edf7ff': 'lightBackground'
+}
